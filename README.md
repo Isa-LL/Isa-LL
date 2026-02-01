@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Isa--LL-181717?style=for-the-badge&logo=github)](https://github.com/Isa-LL)
 [![Email](https://img.shields.io/badge/Email-luisalegoni@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisalegoni@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Carabobo,_Venezuela-00C853?style=for-the-badge)]( )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luisana_Legonia-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luisa-legoni-b062b5353/).
 
 </div>
 
@@ -21,9 +21,9 @@ Soy una estudiante de **Computación** en la Universidad de Carabobo (FACYT) apa
 ```javascript
 const luisana = {
     nombre: "Luisana Legonía",
-    ubicacion: "Sector El Retobo, Naguanagua",
+    ubicacion: "Carabobo, Venezuela",
     universidad: "Universidad de Carabobo (FACYT)",
-    semestre: "4to semestre",
+    semestre: "5to semestre",
     intereses: ["Desarrollo Web", "Ciencia de Datos", "IA", "Machine Learning"],
     estado: "Las mejores soluciones son aburridas de describir y brillantes de usar"
 };
