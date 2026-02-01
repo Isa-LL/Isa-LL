@@ -134,20 +134,6 @@ Fundamentos sólidos en programación de bajo nivel:
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isa-LL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Isa-LL&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isa-LL&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌱 Actualmente Aprendiendo
 
 ```python
