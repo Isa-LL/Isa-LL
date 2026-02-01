@@ -2,7 +2,7 @@
 
 # 🌟 Luisana Gabriela Legonía Patiño
 
-### `{ Desarrolladora | Analista de Datos | Entusiasta de la IA }`
+### `{ Desarrolladora Full Stack Junior }`
 
 *Construyendo el futuro con código y datos*
 
@@ -149,9 +149,6 @@ current_focus = {
 
 ## 🎯 Objetivos 2025
 
-- ✅ Completar certificación en IA con Samsung
-- 🚀 Desarrollar proyectos de Machine Learning
-- 📚 Contribuir a proyectos Open Source
 - 🌐 Crear portafolio profesional
 - 💼 Ganar experiencia profesional en desarrollo
 
